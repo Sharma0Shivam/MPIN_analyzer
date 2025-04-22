@@ -22,11 +22,11 @@ This function evaluates whether an MPIN is considered common or weak based on se
        
 2.Demographic-Based Analysis:
 
-   - Analyzes MPIN usage patterns abased on their personal data such as their DOB,Wedding Anniversary or Spouse birthday .
+      - Analyzes MPIN usage patterns abased on their personal data such as their DOB,Wedding Anniversary or Spouse birthday .
      
 3.Date Format Handling (New Feature):
 
-    -The program now handles multiple date formats (e.g., dd-mm-yyyy, yyyy-mm-dd, mm/dd/yyyy etc.). The program automatically identifies and processes the date format, ensuring it correctly interprets the input. However there are some limitations as no third party libraries are used:
+    - The program now handles multiple date formats (e.g., dd-mm-yyyy, yyyy-mm-dd, mm/dd/yyyy etc.). The program automatically identifies and processes the date format, ensuring it correctly interprets the input. However there are some limitations as no third party libraries are used:
     
     - It assumes the most common format used in India which is dd/mm/yyyy.
     
