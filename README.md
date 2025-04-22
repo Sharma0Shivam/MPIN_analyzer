@@ -1,9 +1,12 @@
 # MPIN_strength_check
 This project offers a comprehensive analysis of the strength of 4-digit and 6-digit MPINs used to access mobile banking apps, taking into account both commonly used MPINs and demographic trends based on their personal data such as their DOB,Wedding Anniversary or Spouse birthday.
+
 🔍 Code Functionality and Algorithm Description
+
 ✅ Main Function:
 commonly_used_mpin(mpin)
 This function evaluates whether an MPIN is considered common or weak based on several pattern checks. It is useful in contexts where you want to enhance security validation for user-selected PINs.
+
 📌 Checks Performed:
 1.Pattern-Based Analysis:
    Detects weak or predictable patterns:
