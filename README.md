@@ -36,7 +36,7 @@ This function evaluates whether an MPIN is considered common or weak based on se
 
 1.Clone this repository:
 
-  git clone https://github.com/your-username/mpin-pattern-analyzer.git
+  git clone https://github.com/your-username/mpin-strength-analyzer.git
   
 2.Open the notebook:
 
